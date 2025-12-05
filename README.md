@@ -19,32 +19,32 @@ It is designed as a full end-to-end data analytics + machine learning pipeline.
 
 ## 📁 Project Structure
 
+```
 Movie-Success-Prediction/
 │
 ├── data/
-│ └── movies_data.csv
+│   └── movies_data.csv
 │
 ├── notebook/
-│ └── movie_success_prediction.ipynb
+│   └── movie_success_prediction.ipynb
 │
 ├── model/
-│ └── movie_xgboost_model.pkl
+│   └── movie_xgboost_model.pkl
 │
 ├── dashboard/
-│ ├── Movie_Success_Dashboard.pbix
-│ └── Movie_Success_Dashboard.pdf
+│   ├── Movie_Success_Dashboard.pbix
+│   └── Movie_Success_Dashboard.pdf
 │
 ├── gui/
-│ └── movie_predictor_app.py
+│   └── movie_predictor_app.py
 │
 ├── images/
-│ └── dashboard_preview.png
+│   └── dashboard_preview.png
 │
 ├── requirements.txt
 ├── README.md
 └── LICENSE
----
-
+```
 ## 📊 Dashboard Insights (Power BI)
 - Revenue Trends  
 - Movie Popularity Analysis  

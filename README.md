@@ -18,7 +18,7 @@ It is designed as a full end-to-end data analytics + machine learning pipeline.
 ---
 
 ## 📁 Project Structure
-```Movie-Success-Prediction/
+Movie-Success-Prediction/
 │
 ├── data/
 │ └── movies_data.csv
@@ -41,7 +41,7 @@ It is designed as a full end-to-end data analytics + machine learning pipeline.
 │
 ├── requirements.txt
 ├── README.md
-└── LICENSE```
+└── LICENSE
 
 ---
 

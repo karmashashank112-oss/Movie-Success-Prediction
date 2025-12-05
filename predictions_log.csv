@@ -1,0 +1,10 @@
+Budget (M),Runtime (min),Genre,Language,Year,Predicted Profit,Result
+100,120,Action,En,2020,33731260,Hit
+50,90,Drama,Hi,2020,2172089.5,Flop
+200,150,Adventure,En,2021,-5093353,Flop
+100,120,Comedy,Hi,2010,1467098.2,Flop
+200,150,Animation,En,2025,-28522388,Flop
+200,180,Comedy,En,2012,21401474,Hit
+200,150,Comedy,En,2024,-32488944,Flop
+100,120,Action,En,2010,39845920,Hit
+50,120,Animation,En,2013,10676914,Flop

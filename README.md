@@ -1,4 +1,4 @@
-=# Movie-Success-Prediction 
+# Movie-Success-Prediction 
 ![Dashboard Preview](images/dashboard_preview.png)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)

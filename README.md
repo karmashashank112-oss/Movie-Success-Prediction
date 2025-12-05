@@ -20,7 +20,7 @@ It is designed as a full end-to-end data analytics + machine learning pipeline.
 ## 📁 Project Structure
 
 ```
-Movie-Success-Prediction/
+- **Movie-Success-Prediction/
 │
 ├── data/
 │   └── movies_data.csv
@@ -43,7 +43,7 @@ Movie-Success-Prediction/
 │
 ├── requirements.txt
 ├── README.md
-└── LICENSE
+└── LICENSE**
 ```
 ## 📊 Dashboard Insights (Power BI)
 - Revenue Trends  

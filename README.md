@@ -1,5 +1,5 @@
 # Movie-Success-Prediction 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/dashboard_preview.png.png)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![Machine Learning](https://img.shields.io/badge/ML-XGBoost-green)
